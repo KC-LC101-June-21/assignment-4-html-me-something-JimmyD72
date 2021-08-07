@@ -1,3 +1,40 @@
+*{
+    margin: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: lightgrey;
+}
 
-
-
+body {
+   
+    margin: 8px;
+    display:block;
+}
+#mainHeading{
+    color:red;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-align: justify;
+  }
+  #sketch{
+    height: 75%;
+    width: 50%;
+  }
+  #murderWeapon{
+      width: 75%;
+  }
+ 
+.funParagraph {
+    color: green;
+}
+footer {
+    text-align: center;
+    color: blue;
+}
