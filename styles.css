@@ -1,11 +1,13 @@
 *{
     margin: 8px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: immortal;
+    font-size: 20pt;
     background-color: lightgrey;
 }
 
-body {
-   
+body {width: auto;
+    border: 15px solid black;
+    padding: 50px;
     margin: 8px;
     display:block;
 }
@@ -16,6 +18,10 @@ body {
 h2 {
     text-align: center;
 }
+h3 {
+    text-align: center;
+}
+
 p {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -23,14 +29,47 @@ p {
     margin-left: 20px;
     text-align: justify;
   }
+  #jeongim {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 10%;
+    width: 25%;
+  }
+  #car2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35%;
+    width: 35%;
+  }
   #sketch{
-    height: 75%;
-    width: 50%;
+    height: 15%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   #murderWeapon{
       width: 75%;
+      display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
- 
+
+ #timothyHoag {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+ }
+ #garagezilla{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+
+ }
 .funParagraph {
     color: green;
 }
